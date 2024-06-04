@@ -1,15 +1,16 @@
 <style>
+
 footer {
 	bottom: 0;
 	width: 100%;
-	background-color: gray;
+	background-color: #f4f4f4;
 	color: white;
 	text-align: right;
 	padding: 1rem 0;
 }
 
 .custom-footer{
-	color: white;
+	color: black;
 }
 </style>
 
